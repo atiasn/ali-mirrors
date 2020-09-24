@@ -1,2 +1,2 @@
-# ali-mirrors
-系统添加各种阿里源
+# mirrors
+系统添加各种国内源
